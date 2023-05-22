@@ -104,15 +104,4 @@ npx cypress run
 ```
 
 
-## Autor
 
-<img style="border-radius: 50%;" src="https://media-exp2.licdn.com/dms/image/D4E35AQF5GqZ5re511A/profile-framedphoto-shrink_400_400/0/1653410495003?e=1658721600&v=beta&t=YXPeYBSZBIAtBpnWOYI2JA9kNhK5_zzgI7Otohv9KMo" width="100px" alt=""/><br>
-<br />
-Feito com ❤️ por Rodrigo Mendes 👋🏽 Entre em contato!
-<br/>
-
-
- <a href="mailto:roodrigoomendessilva@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
- <a href="https://www.linkedin.com/in/rodrigomendes-/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-
-<p align="right">(<a href="#top">Voltar para o TOPO</a>)</p>
